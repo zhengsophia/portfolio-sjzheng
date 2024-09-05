@@ -7,4 +7,4 @@ layout: doc
 
 Hi! I'm Sophia, a TA for 6.1040 this semester. Excited to get know you all!
 
-![](Leo.jpg){:width='200'}
+![](leo.jpg)
